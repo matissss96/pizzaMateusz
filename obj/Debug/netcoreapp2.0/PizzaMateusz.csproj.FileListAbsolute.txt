@@ -1,0 +1,11 @@
+C:\Users\Mateusz\Desktop\PizzaMateusz\PizzaMateusz\bin\Debug\netcoreapp2.0\PizzaMateusz.deps.json
+C:\Users\Mateusz\Desktop\PizzaMateusz\PizzaMateusz\bin\Debug\netcoreapp2.0\PizzaMateusz.runtimeconfig.json
+C:\Users\Mateusz\Desktop\PizzaMateusz\PizzaMateusz\bin\Debug\netcoreapp2.0\PizzaMateusz.runtimeconfig.dev.json
+C:\Users\Mateusz\Desktop\PizzaMateusz\PizzaMateusz\bin\Debug\netcoreapp2.0\PizzaMateusz.dll
+C:\Users\Mateusz\Desktop\PizzaMateusz\PizzaMateusz\bin\Debug\netcoreapp2.0\PizzaMateusz.pdb
+C:\Users\Mateusz\Desktop\PizzaMateusz\PizzaMateusz\obj\Debug\netcoreapp2.0\PizzaMateusz.csprojAssemblyReference.cache
+C:\Users\Mateusz\Desktop\PizzaMateusz\PizzaMateusz\obj\Debug\netcoreapp2.0\PizzaMateusz.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\PizzaMateusz\PizzaMateusz\obj\Debug\netcoreapp2.0\PizzaMateusz.AssemblyInfoInputs.cache
+C:\Users\Mateusz\Desktop\PizzaMateusz\PizzaMateusz\obj\Debug\netcoreapp2.0\PizzaMateusz.AssemblyInfo.cs
+C:\Users\Mateusz\Desktop\PizzaMateusz\PizzaMateusz\obj\Debug\netcoreapp2.0\PizzaMateusz.dll
+C:\Users\Mateusz\Desktop\PizzaMateusz\PizzaMateusz\obj\Debug\netcoreapp2.0\PizzaMateusz.pdb
